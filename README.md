@@ -1,4 +1,4 @@
-gisc
+GISC
 ====
 
 A Learning Repository for the GISCollective
